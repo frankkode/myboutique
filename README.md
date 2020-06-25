@@ -1,7 +1,5 @@
-# Code Institute
+# MASAcode [www.masacode.com]
 
-Welcome Chris Z.,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+welcome to www.masacode.com
+online shop for more info contact us on
+masasimpafra@gmail.com or visit [www.masacode.com]
