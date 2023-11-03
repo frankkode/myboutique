@@ -20,7 +20,7 @@ defusedxml==0.6.0
 distlib==0.3.1
 dj-database-url==0.5.0
 dj-stripe==2.2.3
-Django==3.1.13
+Django==3.2.23
 django-allauth==0.45.0
 django-countries==7.2.1
 django-crispy-forms==1.12.0
@@ -68,7 +68,7 @@ parso==0.6.0
 pathspec==0.8.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.3.2
+Pillow==10.0.0
 pipenv==2018.11.26
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
