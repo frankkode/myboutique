@@ -48,7 +48,7 @@ jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
 jupyter-core==4.6.1
-jupyterlab==1.2.21
+jupyterlab==3.6.7
 jupyterlab-server==1.0.6
 kiwisolver==1.1.0
 lazy-object-proxy==1.6.0
@@ -68,7 +68,7 @@ parso==0.6.0
 pathspec==0.8.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.3.2
+Pillow==10.2.0
 pipenv==2018.11.26
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
